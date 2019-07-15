@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="work.project.james.andelafirstproject.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="Welcome to Alc 4.0"
+            android:fontFamily="serif"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/aboutAlc"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="ABOUT ALC"
+            android:background="@drawable/roundbutton"
+            android:textColor="#000"/>
+
+        <Button
+            android:id="@+id/myProfile"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="MY PROFILE"
+            android:background="@drawable/roundbutton"
+            android:layout_marginTop="30dp"
+            android:textColor="#000"/>
+    </LinearLayout>
+</LinearLayout>

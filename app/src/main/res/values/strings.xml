@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndelaFirstProject</string>
+    <string name="slackname">@Evergreen</string>
+    <string name="slack_username">Slack Username :</string>
+    <string name="_08063723709">08063723709</string>
+    <string name="phone">Phone :</string>
+    <string name="heinzokonkwo_gmail_com">heinzokonkwo@gmail.com</string>
+    <string name="email">Email :</string>
+    <string name="nigeria">Nigeria</string>
+    <string name="country">Country :</string>
+    <string name="android">Android</string>
+    <string name="track">Track :</string>
+    <string name="arinze_james_okonkwo">Arinze James Okonkwo</string>
+</resources>
